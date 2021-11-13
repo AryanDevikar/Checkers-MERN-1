@@ -5,7 +5,7 @@
 <!-- <br> -->
 <h3>2) Sahil Kedare</h3>
 <!-- <br> -->
-<h3>2) Aryan Devikar</h3>
+<h3>3) Aryan Devikar</h3>
 
 
 <h1>TOOLS USED :</h2>
