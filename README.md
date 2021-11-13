@@ -30,7 +30,7 @@ At the top there is a navbar with which user can navigate to Home, Rules, Contac
 
 Our project topic is an CHECKERS GAME WEBSITE. This website consists of 6 major sections to which we can navigate with the help of navbar. The six different pages are Login/Registration section, Home section, Rules section, Contact Us section, Leaderboard section  and Profile section.
 
-<h3>2. Login/Register :</h3>
+<h3>1. Login/Register :</h3>
 
 Users who are new to the site can register and create a username and password, which they will use to logIn. If a user happens to forget their password, they will be able to reset it by providing their email address and then filling in their new password.
 
